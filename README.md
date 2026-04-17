@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi! Eu sou a Marceline 🌸🐍
+# Oi! Eu sou a Marceline 🌸
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Aprendendo+Python+%F0%9F%90%8D;Sonhando+em+ser+Dev+Backend+%E2%9C%A8;Cada+linha+de+c%C3%B3digo+%C3%A9+um+passo+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
