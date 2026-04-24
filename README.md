@@ -51,7 +51,7 @@ Tecnologias que quero aprender no futuro:
 
 <div align="center">
 
-*"Toda especialista já foi uma dia iniciante." 🌱*
+*"Toda especialista já foi um dia iniciante." 🌱*
 
 ✨ **construindo meu caminho, um `print()` de cada vez** ✨
 
